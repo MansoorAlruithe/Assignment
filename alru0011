@@ -1,0 +1,28 @@
+White-Box and BlackBox
+----------------------
+
+
+Comparison between White-box and Black-box Test
+-----------------------------------------------
+Introduction
+-----------
+Software testing is aimed at assessing the differences that may exist between required conditions and existing conditions (Myers et al. 2011).
+The information gained from the assessment can be used to gauge the quality of the software under test. The assessment can also
+provide an overview of the risks of implementing the software. To achieve the testing objectives,
+both black-box testing and white-box testing can be used. This paper contains a deep comparison between black box and white box testing;
+it explains the use and meaning of each type of testing, lists the advantages and disadvantages of each type,
+and also provides some examples for each type of testing to highlight the differences between the two types of testing. 
+
+
+
+Black box testing
+-----------------
+Overview
+--------
+Black-box testing is a functional and behavioral testing technique which is used in determination of whether or not a program performs 
+what it is supposed to, functionally(Beizer 1995). Black-box testing concentrates on the results of the software by providing input and 
+examining the output without knowing how this software has been implemented (Stepp, nd). The idea of the software product being 
+tested without the knowledge of implementation – black-box – gives it the name black-box testing(Beizer 1995).
+Although the tester might have had a look at the code before testing, he/she has no access to the source code while executing the black-box test; 
+tester only deals with the application user interface and executes a pre-designed test cases(Beizer 1995). Black-box testing ensures that 
+application functionality is working as expected, it is also known as functional testing or data driven testing. Figure 1 demonstrates the general idea of black-box testing.
